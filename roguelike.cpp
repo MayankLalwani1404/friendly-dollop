@@ -107,6 +107,5 @@ int main() {
         if (input == 'a') movePlayer(-1, 0);
         if (input == 'd') movePlayer(1, 0);
     }
-
     return 0;
 }
