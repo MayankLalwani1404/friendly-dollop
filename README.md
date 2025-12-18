@@ -33,4 +33,4 @@ Move around the dungeon, attack enemies by walking into them, and defeat all ene
 
 ### Compile
 ```bash
-g++ roguelike.cpp -o roguelike
+g++ roguelike.cpp -o roguelike 
